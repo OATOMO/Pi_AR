@@ -1,0 +1,121 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:22.09.2017 18:46:01
+
+newmtl blinn5
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/base/__invoker_base_color.tga
+	map_Kd /opt/model/kaer/materials/base/__invoker_base_color.tga
+	map_Ks /opt/model/kaer/materials/base/__invoker_base_specularMask.tga
+	map_bump /opt/model/kaer/materials/base/__invoker_base_normal.tga
+	bump /opt/model/kaer/materials/base/__invoker_base_normal.tga
+
+newmtl blinn8
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/base/__invoker_base_color1.tga
+	map_Kd /opt/model/kaer/materials/base/__invoker_base_color1.tga
+	map_Ks /opt/model/kaer/materials/base/__invoker_base_specularMask1.tga
+	map_bump /opt/model/kaer/materials/base/__invoker_base_normal1.tga
+	bump /opt/model/kaer/materials/base/__invoker_base_normal1.tga
+
+newmtl blinn7
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/invoker_head_color.tga
+	map_Kd /opt/model/kaer/materials/invoker_head_color.tga
+	map_Ks /opt/model/kaer/materials/invoker_head_specularMask.tga
+	map_bump /opt/model/kaer/materials/invoker_head_normal.tga
+	bump /opt/model/kaer/materials/invoker_head_normal.tga
+
+newmtl blinn9
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/invoker_shoulder_color.tga
+	map_Kd /opt/model/kaer/materials/invoker_shoulder_color.tga
+	map_Ks /opt/model/kaer/materials/invoker_shoulder_specularMask.tga
+	map_bump /opt/model/kaer/materials/invoker_shoulder_normal.tga
+	bump /opt/model/kaer/materials/invoker_shoulder_normal.tga
+
+newmtl blinn4
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/invoker_back_color.tga
+	map_Kd /opt/model/kaer/materials/invoker_back_color.tga
+	map_Ks /opt/model/kaer/materials/invoker_back_specularMask.tga
+	map_bump /opt/model/kaer/materials/invoker_back_normal.tga
+	bump /opt/model/kaer/materials/invoker_back_normal.tga
+
+newmtl blinn3
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/invoker_arms_color.tga
+	map_Kd /opt/model/kaer/materials/invoker_arms_color.tga
+	map_Ks /opt/model/kaer/materials/invoker_arms_specularMask.tga
+	map_bump /opt/model/kaer/materials/invoker_arms_normal.tga
+	bump /opt/model/kaer/materials/invoker_arms_normal.tga
+
+newmtl blinn6
+	Ns 26.5805
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5000 0.5000 0.5000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka /opt/model/kaer/materials/invoker_belt_color.tga
+	map_Kd /opt/model/kaer/materials/invoker_belt_color.tga
+	map_Ks /opt/model/kaer/materials/invoker_belt_specularMask.tga
+	map_bump /opt/model/kaer/materials/invoker_belt_normal.tga
+	bump /opt/model/kaer/materials/invoker_belt_normal.tga
